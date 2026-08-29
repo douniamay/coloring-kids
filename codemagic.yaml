@@ -15,4 +15,4 @@ workflows:
     publishing:
       email:
         recipients:
-
+          - douniamay@gmail.com
